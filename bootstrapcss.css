@@ -1,0 +1,16 @@
+.carousel-item .display-4{
+    color: white;
+    margin-top: 300px;
+    font-style: italic;
+    font-size: 30px;
+}
+.carousel-item p {
+    color: white;
+    font-size: 15px;
+    font-family:fantasy;
+}
+.carousel-item {
+    height: 670px;
+}
+
+
